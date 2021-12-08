@@ -17,7 +17,7 @@ def day_to_buy_stock (prices):
 
     return buy_day
 
-
+# best day to sell stock
 def day_to_sell_stock(prices, buying_day):
 
     sell_day  = 1

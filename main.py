@@ -1,6 +1,7 @@
 # leetcode problem
 price = [7,1,5,3,6,4]
 
+# find best day to buy stock
 def day_to_buy_stock (prices):
 
     buy_day = 1
